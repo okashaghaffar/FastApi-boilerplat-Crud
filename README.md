@@ -16,16 +16,14 @@ This application provides endpoints to perform CRUD operations on a database. It
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/okashaghaffar/FastApi-boilerplat-Crud
 
 ## Install dependencies
 
-```bash
 pip install -r requirements.txt
 
 ## Run the application:
 
-```bash
 uvicorn main:app --reload
 
 
